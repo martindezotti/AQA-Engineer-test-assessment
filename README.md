@@ -1,4 +1,3 @@
-# AQA-Engineer-test-assessment
 # AQA Engineer test assessment - Playlist App
 <br>For the correct set up to run the tests you will need:<br />
 <br>. Node.js<br />
